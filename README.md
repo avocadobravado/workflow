@@ -7,4 +7,4 @@ By Rose Sponseller
 
 ### Bootstrap and jQuery CDNs
 
-* [Pastebin link](https://pastebin.com/JCA4n940)
+* [Pastebin link](https://pastebin.com/bmMDBWWy)
